@@ -1,5 +1,5 @@
 # EC-LAB
-Electrical Circuit LAB ( FALL 2020 )
+## Electrical Circuit LAB ( FALL 2020 )
 
 ### This is an instruction of EC LAB of [CE@AUT](https://ce.aut.ac.ir/)
 
